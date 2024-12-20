@@ -147,8 +147,8 @@ Contributions are welcome! Please follow these steps:
 
 For any queries or feedback, feel free to contact:
 **Ayush Mishra**  
-[GitHub Profile](https://github.com/yourusername)  
-Email: [ayush.mishra@example.com](mailto:ayush.mishra@example.com)
+[GitHub Profile](https://github.com/Dante134)  
+Email: [ayushmishra256@gmail.com](mailto:ayushmishra256@gmail.com)
 
 ---
 
